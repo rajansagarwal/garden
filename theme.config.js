@@ -28,6 +28,7 @@ export default {
   nextLinks: true,
 	font: false,
 	footer: false,
+	defaultMenuCollapsed: true,
 	darkMode: true,
 	footerEditLink: 'Powered by Nextra',
   footerText: <>{new Date().getFullYear()} © Rajan Agarwal.</>,
