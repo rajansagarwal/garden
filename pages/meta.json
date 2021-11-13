@@ -1,12 +1,9 @@
 {
   "index": "Welcome 👋",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced",
-	"socialmedia": "Politics & Social Media",
+	"journey": "My Journey",
+	"blog": "Writings",
 	"talks": "Talks",
 	"published": "Published",
-	"directory": "Directory",
-	"blog": "Writings"
+	"directory": "Directory"
+
 }
