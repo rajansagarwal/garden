@@ -1,7 +1,9 @@
 {
-  "Media": "Politics & Social Media",
-		"Trillionares": "The Trillionare Paradox",
-	"Gamestop": "Gamestop Controversy",
-	"Vaccine": "Canada & The Vaccine"
+  "socialmedia": "Politics & Social Media",
+	"mainstream-mindfulness": "Mainstream Mindfullness",
+	"techsodus": "Mass Tech Exodus",
+	"trillionare-paradox": "The Trillionare Paradox",
+	"gamestop-controversy": "Gamestop Controversy",
+	"vaccines-in-canada": "Canada & The Vaccine"
 
 }
