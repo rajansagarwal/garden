@@ -4,9 +4,9 @@ export default {
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Writings</span>
-      <span className="text-gray-600 font-normal hidden md:inline" ahref="https://heyrajan.com">
+      <span className="text-gray-600 font-normal hidden md:inline"><a href="https://heyrajan.com" style={{textDecoration: 'none', color: 'gray'}}>
         Rajan Agarwal 
-      </span>
+      </a></span>
     </>
   ),
   head: (
@@ -21,7 +21,7 @@ export default {
       <meta name="twitter:site:domain" content="posts.heyrajan.com" />
       <meta name="twitter:url" content="https://posts.heyrajan.com" />
       <meta name="og:title" content="Writings // Rajan Agarwal" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="Rajan Agarwal" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -54,10 +54,13 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
-  search: true,
+  search: false,
   prevLinks: true,
   nextLinks: true,
-  footer: true,
-  footerText: <>{new Date().getFullYear()} © Rajan, Powered by Nextra.</>,
+	font: false,
+	footer: false,
+	darkMode: true,
+	footerEditLink: 'Powered by Nextra',
+  footerText: <>{new Date().getFullYear()} © Rajan Agarwal.</>,
   unstable_faviconGlyph: '👋',
 }
