@@ -3,7 +3,7 @@ export default {
   titleSuffix: ' – Rajan Agarwal',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Writings</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Digital Garden</span>
       <span className="text-gray-600 font-normal hidden md:inline"><a href="https://heyrajan.com" style={{textDecoration: 'none', color: 'gray'}}>
         Rajan Agarwal 
       </a></span>

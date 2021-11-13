@@ -3,5 +3,10 @@
   "get-started": "Get Started",
   "features": "Features",
   "themes": "Themes",
-  "advanced": "Advanced"
+  "advanced": "Advanced",
+	"socialmedia": "Politics & Social Media",
+	"talks": "Talks",
+	"published": "Published",
+	"directory": "Directory",
+	"blog": "Writings"
 }

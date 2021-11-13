@@ -1,0 +1,20 @@
+{
+  "files": {
+    "pages/meta.json": [
+      {
+        "id": "1825afef-4e11-4c41-97cb-a07413aea861",
+        "line": 6,
+        "version": 214,
+        "index": 109
+      }
+    ],
+    "pages/writings/Media.mdx": [
+      {
+        "id": "510a4a36-0fea-41bd-97d6-483733f49f9b",
+        "line": 14,
+        "version": 1,
+        "index": 688
+      }
+    ]
+  }
+}
