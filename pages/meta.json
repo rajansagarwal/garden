@@ -1,9 +1,12 @@
 {
-  "index": "Welcome 👋",
-	"journey": "My Journey",
+  "index": "👋 Welcome",
+	"journey": "🗺 My Journey",
 	"blog": "Writings",
 	"talks": "Talks",
 	"published": "Published",
-	"directory": "Directory"
+	"ventures": "🛠 Ventures",
+	"thoughts": "🌱 Thoughts",
+	"directory": "Directory",
+	"resume": "📌 Resume"
 
 }

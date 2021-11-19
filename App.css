@@ -11,6 +11,15 @@ body {
 	}
 }
 
+@media (max-width: 600px) {
+.laptop {
+		display: none;
+	}
+}
+
+
+
+
 .clip {
 	display: inline;
 	background: linear-gradient(to right, rgb(227, 112, 250) 0%, #62aada 100%);
@@ -35,3 +44,18 @@ background-clip: text;
 text-align: center;
 
 }
+
+u {
+  background-image: linear-gradient(90deg, #ac7ff3 0%, #71c9f5 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 88%;
+  background-position: 0 88%;
+  transition: background-size 0.1s ease-in;
+  text-decoration-color: transparent;
+	font-weight: 500;
+	cursor: pointer;
+	text-decoration: none;
+	filter: invert(0%);
+}
+
+
