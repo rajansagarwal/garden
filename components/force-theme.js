@@ -1,7 +1,7 @@
 import { useTheme } from 'next-themes'
 
-export default ({ theme }) => {
+export default ({ themeInput }) => {
   const { theme, setTheme } = useTheme()
-  setTheme(theme)
+  setTheme(theme == "system" ? themeInput : theme)
   return null
 }
