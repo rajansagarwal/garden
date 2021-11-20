@@ -4,7 +4,7 @@
       {
         "id": "7e886e7d-241e-464c-b7a9-23e7e9c178b6",
         "line": 1,
-        "version": 121,
+        "version": 146,
         "index": 0
       }
     ],
@@ -12,8 +12,8 @@
       {
         "id": "1825afef-4e11-4c41-97cb-a07413aea861",
         "line": 2,
-        "version": 326,
-        "index": 25
+        "version": 433,
+        "index": 22
       }
     ],
     "pages/writings/Media.mdx": [
